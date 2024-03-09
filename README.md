@@ -8,7 +8,7 @@ For UAV tracking, detecting the UAV and its center point alone is not sufficient
 In this application, UAV was detected using yolov4. Pose estimation was done using deeplabcut. With the opencv-GPU installation, drone detection and pose estimation were carried out at over 60 fps.
 
 > For Opencv-CUDA installation follow this link: <br/>
-https://www.youtube.com/watch?v=YsmhKar8oOc
+https://www.youtube.com/watch?v=YsmhKar8oOc  <br/>
 > For deeplabcut : <br/> https://github.com/DeepLabCut/DeepLabCut
 
 ``` python yolov4-detect_pose-track.py```
