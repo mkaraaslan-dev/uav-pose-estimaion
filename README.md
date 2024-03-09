@@ -11,4 +11,6 @@ In this application, UAV was detected using yolov4. Pose estimation was done usi
 https://www.youtube.com/watch?v=YsmhKar8oOc  <br/>
 > For deeplabcut : <br/> https://github.com/DeepLabCut/DeepLabCut
 
-``` python yolov4-detect_pose-track.py```
+```
+python yolov4-detect_pose-track.py
+```
