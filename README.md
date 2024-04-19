@@ -14,3 +14,16 @@ https://www.youtube.com/watch?v=YsmhKar8oOc  <br/>
 ```
 python yolov4-detect_pose-track.py
 ```
+# Citation
+If you find our work useful we'd love to hear from you. If you use this repositorty as part of your research can you please cite the repository in your work:
+```
+@misc{uav-pose-estimation,
+author = {Mahmut Karaaslan},
+title = {uav-pose-estimaion},
+year = {2022},
+publisher = {GitHub},
+journal = {GitHub repository},
+howpublished = {\url{https://github.com/KARAASLAN-AI/uav-pose-estimaion}},
+}
+
+```
