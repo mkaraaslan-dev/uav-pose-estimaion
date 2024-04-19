@@ -1,4 +1,4 @@
-# uav-tracking-with-pose-estimaion
+# uav-pose-estimaion
 For UAV tracking, detecting the UAV and its center point alone is not sufficient. After the UAV is detected, the center, right wing and left wing can be determined with the pose estimation method, and UAV tracking can be made more possible with the tilt information of the UAV. This code only contains a demo for the visual tracking part.
 
 ![uav_pose](https://github.com/KARAASLAN-AI/uav-tracking-with-pose-estimaion/blob/main/images/Untitled%20(2).gif)
